@@ -1,0 +1,50 @@
+PK001,Phong Kham Noi Tong Quat,Noi tong quat,45,true
+PK002,Phong Kham Nhi,Nhi khoa,38,true
+PK003,Phong Kham San Phu Khoa,San khoa,42,true
+PK004,Phong Kham Ngoai Tong Quat,Ngoai khoa,40,true
+PK005,Phong Kham Da Lieu,Da lieu,35,true
+PK006,Phong Kham Mat,Mat,30,true
+PK007,Phong Kham Tai Mui Hong,Tai Mui Hong,33,true
+PK008,Phong Kham Rang Ham Mat,Rang Ham Mat,27,true
+PK009,Phong Kham Tim Mach,Tim mach,48,true
+PK010,Phong Kham Co Xuong Khop,Co Xuong Khop,39,true
+PK011,Phong Kham Ho Hap,Ho Hap,31,true
+PK012,Phong Kham Tieu Hoa,Tieu Hoa,44,true
+PK013,Phong Kham Than Kinh,Than kinh,29,true
+PK014,Phong Kham Huyet Hoc,Huyet Hoc,28,true
+PK015,Phong Kham Noi Tiet,Noi tiet,36,true
+PK016,Phong Kham Ung Buou,Ung Buou,25,true
+PK017,Phong Kham Di Ung Mien Dich,Di Ung,21,true
+PK018,Phong Kham Co Xuong,Co Xuong,33,true
+PK019,Phong Kham Tham My,Tham My,18,true
+PK020,Phong Kham Tam Than,Tam Than,26,true
+PK021,Phong Kham Hoi Suc,Cap Cuu,34,true
+PK022,Phong Kham Phuc Hoi Chuc Nang,Vat Ly Tri Lieu,28,true
+PK023,Phong Kham Lao,Lao,19,true
+PK024,Phong Kham Dong Y,Dong Y,37,true
+PK025,Phong Kham San So,San khoa,30,true
+PK026,Phong Kham Benh Nghe Nghiep,Suc Khoe Cong Dong,22,true
+PK027,Phong Kham Da Lieu Tre Em,Da lieu,29,true
+PK028,Phong Kham Mat Tre Em,Mat,26,true
+PK029,Phong Kham Tieu Duong,Noi tiet,33,true
+PK030,Phong Kham Huyet Ap,Tim mach,40,true
+PK031,Phong Kham Xet Nghiem Mau,Xet Nghiem,25,true
+PK032,Phong Kham Hinh Anh,Chan Doan Hinh Anh,41,true
+PK033,Phong Kham Gay Me Hoi Suc,Gay Me,32,true
+PK034,Phong Kham Cap Cuu,Cap Cuu,55,true
+PK035,Phong Kham Da A,Noi,42,true
+PK036,Phong Kham Da B,Ngoai,39,true
+PK037,Phong Kham Da C,Nhi,31,true
+PK038,Phong Kham Da D,San,34,true
+PK039,Phong Kham Da E,Mat,29,true
+PK040,Phong Kham Da F,Da Lieu,27,true
+PK041,Phong Kham Da G,Tim Mach,44,true
+PK042,Phong Kham Da H,Noi Tiet,35,true
+PK043,Phong Kham Da I,Than Kinh,33,true
+PK044,Phong Kham Da J,Tai Mui Hong,28,true
+PK045,Phong Kham Da K,Tieu Hoa,37,true
+PK046,Phong Kham Da L,Ho Hap,39,true
+PK047,Phong Kham Da M,Noi,32,true
+PK048,Phong Kham Da N,Ngoai,41,true
+PK049,Phong Kham Da O,San,36,true
+PK050,Phong Kham Da P,Tim Mach,40,true

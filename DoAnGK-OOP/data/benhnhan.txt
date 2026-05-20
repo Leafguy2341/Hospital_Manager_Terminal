@@ -1,0 +1,50 @@
+BN001,Nguyen Van A,35,Nam,0912345678,Ha Noi,Tang huyet ap,O,Khong
+BN002,Tran Thi B,42,Nu,0987654321,Hai Phong,Tieu duong,A,Penicillin
+BN003,Le Van C,28,Nam,0905123456,Da Nang,Khong,B,Hai san
+BN004,Pham Thi D,60,Nu,0938123123,Can Tho,Tim mach,AB,Khong
+BN005,Do Van E,50,Nam,0977123456,Nghe An,Benh gan,O,Phan hoa
+BN006,Hoang Thi F,33,Nu,0922233344,Hue,Khong,A,Thuoc giam dau
+BN007,Vu Van G,40,Nam,0919988776,Ha Nam,Da day,B,Khong
+BN008,Nguyen Thi H,25,Nu,0966112233,Ninh Binh,Khong,O,Sua bo
+BN009,Phan Van I,55,Nam,0933445566,Thanh Hoa,Gout,A,Khong
+BN010,Tran Thi J,30,Nu,0977888999,Bac Giang,Khong,AB,Hai san
+BN011,Le Thi K,27,Nu,0911223344,Ha Noi,Khong,O,Khong
+BN012,Nguyen Van L,45,Nam,0988776655,Thai Binh,Tieu duong,B,Phan hoa
+BN013,Do Thi M,36,Nu,0977665544,Ha Tinh,Benh than,O,Khong
+BN014,Ho Van N,58,Nam,0909887766,Da Lat,Tim mach,A,Khong
+BN015,Tran Thi O,32,Nu,0923456789,Binh Duong,Khong,AB,Hai san
+BN016,Phan Van P,41,Nam,0944556677,Hue,Gout,O,Khong
+BN017,Le Thi Q,29,Nu,0977123123,Quang Nam,Khong,B,Penicillin
+BN018,Nguyen Van R,63,Nam,0912334455,Ha Noi,Da day,O,Khong
+BN019,Vu Thi S,22,Nu,0966788999,Ha Nam,Khong,A,Khong
+BN020,Phan Gia Bao,47,Nam,0933455566,Hai Phong,Benh gan,B,Thuoc giam dau
+BN021,Tran Thi U,31,Nu,0905123789,Da Nang,Khong,O,Khong
+BN022,Nguyen Van V,39,Nam,0988997766,Bac Ninh,Tieu duong,A,Khong
+BN023,Le Thi W,52,Nu,0912349876,Nghe An,Tim mach,AB,Sua bo
+BN024,Do Van X,26,Nam,0978991234,Can Tho,Khong,B,Khong
+BN025,Pham Thi Y,34,Nu,0922211333,Ha Noi,Khong,O,Phan hoa
+BN026,Tran Van Z,59,Nam,0909988777,Thanh Hoa,Gout,A,Khong
+BN027,Nguyen Thi AA,23,Nu,0988665544,Hai Duong,Khong,B,Khong
+BN028,Le Van BB,37,Nam,0933445567,Binh Dinh,Da day,O,Khong
+BN029,Hoang Thi CC,44,Nu,0911234567,Ha Giang,Benh than,AB,Hai san
+BN030,Phan Van DD,48,Nam,0944123456,Lang Son,Tim mach,O,Khong
+BN031,Vu Thi EE,21,Nu,0977888000,Ninh Binh,Khong,B,Khong
+BN032,Nguyen Van FF,54,Nam,0912349999,Hue,Benh gan,A,Khong
+BN033,Tran Thi GG,30,Nu,0923456777,Da Nang,Khong,O,Khong
+BN034,Do Van HH,40,Nam,0977666777,Ha Noi,Gout,B,Phan hoa
+BN035,Le Thi II,43,Nu,0933444333,Thai Nguyen,Khong,O,Khong
+BN036,Pham Van JJ,56,Nam,0988777123,Bac Lieu,Tim mach,AB,Khong
+BN037,Nguyen Thi KK,24,Nu,0911222111,Ha Tinh,Khong,B,Sua bo
+BN038,Tran Van LL,38,Nam,0905123344,Hai Phong,Da day,O,Khong
+BN039,Do Thi MM,50,Nu,0922333444,Can Tho,Benh gan,A,Hai san
+BN040,Vu Van NN,61,Nam,0977123223,Ha Noi,Tieu duong,O,Khong
+BN041,Phan Thi OO,27,Nu,0919988999,Da Nang,Khong,B,Khong
+BN042,Le Van PP,45,Nam,0966332211,Ha Nam,Tim mach,AB,Penicillin
+BN043,Tran Thi QQ,31,Nu,0944112233,Bac Ninh,Khong,O,Khong
+BN044,Nguyen Van RR,58,Nam,0978998877,Nghe An,Gout,A,Khong
+BN045,Pham Thi SS,26,Nu,0911223345,Hue,Khong,O,Phan hoa
+BN046,Do Van TT,35,Nam,0988776654,Ha Noi,Da day,B,Khong
+BN047,Vu Thi UU,48,Nu,0905123999,Hai Phong,Benh than,O,Sua bo
+BN048,Phan Van VV,53,Nam,0977665554,Da Nang,Tieu duong,A,Khong
+BN049,Nguyen Thi WW,29,Nu,0919888777,Can Tho,Khong,AB,Hai san
+BN050,Le Van XX,41,Nam,0933998877,Ha Noi,Benh gan,O,Khong

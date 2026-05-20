@@ -1,0 +1,49 @@
+BS001,Nguyen Van A,45,Nam,0912345678,Ha Noi,Noi tong quat,Thu 2-Thu 6,2.5E7
+BS002,Tran Thi B,39,Nu,0987654321,Hai Phong,Nhi khoa,Thu 2-Thu 7,2.3E7
+BS003,Le Van C,50,Nam,0905123456,Da Nang,Tim mach,Thu 3-Thu 6,2.7E7
+BS004,Pham Thi D,42,Nu,0938123123,Can Tho,Da lieu,Thu 2-Thu 7,2.6E7
+BS005,Do Van E,55,Nam,0977123456,Nghe An,Than kinh,Thu 2-Thu 6,2.8E7
+BS006,Hoang Thi F,35,Nu,0922233344,Hue,San phu khoa,Thu 2-Thu 7,2.4E7
+BS007,Vu Van G,48,Nam,0919988776,Ha Nam,Noi tiet,Thu 2-Thu 6,2.6E7
+BS008,Nguyen Thi H,33,Nu,0966112233,Ninh Binh,Mat,Thu 3-Thu 7,2.2E7
+BS009,Phan Van I,52,Nam,0933445566,Thanh Hoa,Co xuong khop,Thu 2-Thu 6,2.9E7
+BS010,Tran Thi J,41,Nu,0977888999,Bac Giang,Noi khoa,Thu 2-Thu 7,2.4E7
+BS011,Le Van K,46,Nam,0911223344,Ha Noi,Ngoai khoa,Thu 2-Thu 6,2.7E7
+BS012,Nguyen Thi L,37,Nu,0988776655,Thai Binh,Da lieu,Thu 3-Thu 7,2.3E7
+BS013,Do Van M,54,Nam,0977665544,Ha Tinh,Tim mach,Thu 2-Thu 6,2400000.0
+BS014,Ho Thi N,40,Nu,0909887766,Da Lat,San khoa,Thu 2-Thu 7,2.5E7
+BS015,Tran Van O,49,Nam,0923456789,Binh Duong,Than kinh,Thu 2-Thu 6,2.7E7
+BS016,Phan Thi P,36,Nu,0944556677,Hue,Mat,Thu 2-Thu 7,2.2E7
+BS017,Le Van Q,53,Nam,0977123123,Quang Nam,Nhi khoa,Thu 2-Thu 6,2.6E7
+BS018,Nguyen Thi R,38,Nu,0912334455,Ha Noi,Noi tong quat,Thu 3-Thu 7,2.5E7
+BS020,Pham Thi T,32,Nu,0933455566,Hai Phong,San khoa,Thu 2-Thu 7,2.2E7
+BS021,Tran Van U,45,Nam,0905123789,Da Nang,Da lieu,Thu 2-Thu 6,2.5E7
+BS022,Nguyen Thi V,43,Nu,0988997766,Bac Ninh,Noi tiet,Thu 2-Thu 7,2.4E7
+BS023,Le Van W,57,Nam,0912349876,Nghe An,Tim mach,Thu 2-Thu 6,3.1E7
+BS024,Do Thi X,34,Nu,0978991234,Can Tho,Nhi khoa,Thu 3-Thu 7,2.2E7
+BS025,Pham Van Y,51,Nam,0922211333,Ha Noi,Co xuong khop,Thu 2-Thu 6,2.8E7
+BS026,Tran Thi Z,44,Nu,0909988777,Thanh Hoa,Noi tong quat,Thu 2-Thu 7,2.4E7
+BS027,Nguyen Van AA,48,Nam,0988665544,Hai Duong,Than kinh,Thu 2-Thu 6,2.9E7
+BS028,Le Thi BB,31,Nu,0933445567,Binh Dinh,San khoa,Thu 2-Thu 7,2.1E7
+BS029,Hoang Van CC,55,Nam,0911234567,Ha Giang,Noi khoa,Thu 2-Thu 6,2.8E7
+BS030,Phan Thi DD,39,Nu,0944123456,Lang Son,Mat,Thu 3-Thu 7,2.3E7
+BS031,Vu Van EE,47,Nam,0977888000,Ninh Binh,Tim mach,Thu 2-Thu 6,2700.0
+BS032,Nguyen Thi FF,29,Nu,0912349999,Hue,Da lieu,Thu 2-Thu 7,2.1E7
+BS033,Tran Van GG,50,Nam,0923456777,Da Nang,Ngoai khoa,Thu 2-Thu 6,2.9E7
+BS034,Do Thi HH,37,Nu,0977666777,Ha Noi,Nhi khoa,Thu 3-Thu 7,2.3E7
+BS035,Le Van II,41,Nam,0933444333,Thai Nguyen,Noi tong quat,Thu 2-Thu 6,2.5E7
+BS036,Pham Thi JJ,46,Nu,0988777123,Bac Lieu,San khoa,Thu 2-Thu 7,2.4E7
+BS037,Nguyen Van KK,52,Nam,0911222111,Ha Tinh,Noi tiet,Thu 2-Thu 6,2.8E7
+BS038,Tran Thi LL,30,Nu,0905123344,Hai Phong,Da lieu,Thu 3-Thu 7,2.1E7
+BS039,Do Van MM,58,Nam,0922333444,Can Tho,Tim mach,Thu 2-Thu 6,3.2E7
+BS040,Vu Thi NN,35,Nu,0977123223,Ha Noi,Mat,Thu 2-Thu 7,2.3E7
+BS041,Phan Van OO,43,Nam,0919988999,Da Nang,Noi khoa,Thu 2-Thu 6,2.6E7
+BS042,Le Thi PP,49,Nu,0966332211,Ha Nam,San khoa,Thu 3-Thu 7,2.5E7
+BS043,Tran Van QQ,56,Nam,0944112233,Bac Ninh,Than kinh,Thu 2-Thu 6,2.2E8
+BS044,Nguyen Thi RR,28,Nu,0978998877,Nghe An,Nhi khoa,Thu 2-Thu 7,2.1E7
+BS045,Pham Van SS,40,Nam,0911223345,Hue,Ngoai khoa,Thu 2-Thu 6,2.7E7
+BS046,Do Thi TT,33,Nu,0988776654,Ha Noi,Noi tong quat,Thu 3-Thu 7,2.2E7
+BS047,Vu Van UU,54,Nam,0905123999,Hai Phong,Tim mach,Thu 2-Thu 6,3.1E7
+BS048,Phan Thi VV,36,Nu,0977665554,Da Nang,Mat,Thu 2-Thu 7,2.3E7
+BS049,Nguyen Van WW,42,Nam,0919888777,Can Tho,Da lieu,Thu 2-Thu 6,2.5E7
+BS050,Le Thi XX,47,Nu,0933998877,Ha Noi,Noi tiet,Thu 2-Thu 7,2.6E7

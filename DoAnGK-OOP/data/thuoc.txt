@@ -1,0 +1,50 @@
+TH001,Paracetamol,Ha sot,15000.0,400,Uong sau an ngay 2 lan
+TH002,Amoxicillin,Khang sinh,45000.0,250,Uong truoc an 8 tieng/lan
+TH003,Vitamin C,Bo sung,25000.0,500,Uong buoi sang 1 vien
+TH004,Omeprazole,Da day,35000.0,150,Uong truoc bua an sang
+TH005,Salbutamol,Hen suyen,75000.0,80,Xit khi kho tho
+TH006,Ibuprofen,Giam dau,18000.0,450,Uong sau an khong qua 3 lan/ngay
+TH007,Cetirizine,Khang di ung,12000.0,600,Uong 1 vien vao buoi toi
+TH008,Atorvastatin,Mo mau,85000.0,120,Uong buoi toi truoc khi ngu
+TH009,Metformin,Tieu duong,55000.0,300,Uong cung bua an
+TH010,Amlodipine,Huyet ap,65000.0,200,Uong buoi sang 1 vien
+TH011,Dextromethorphan,Ho,22000.0,400,Uong khi ho 4-6 tieng/lan
+TH012,Berberin,Tieu chay,10000.0,700,Uong 2 vien sau an
+TH013,Prednisolone,Chong viem,40000.0,90,Theo chi dinh bac si
+TH014,Folic Acid,Vitamin B,8000.0,800,Uong 1 vien moi ngay
+TH015,Albuterol,Gian phe quan,90000.0,50,Hit khi can thiet
+TH016,Ciprofloxacin,Khang khuan,60000.0,180,Uong cach 12 gio
+TH017,Loratadine,Di ung,14000.0,550,Uong 1 lan/ngay
+TH018,Aspirin,Dong mau,20000.0,420,Uong sau an
+TH019,Multivitamin,Da vitamin,30000.0,350,Uong 1 vien/ngay
+TH020,Simvastatin,Cholesterol,70000.0,100,Uong buoi toi
+TH021,Ranitidine,Da day,28000.0,110,Uong truoc khi ngu
+TH022,Levocetirizine,Di ung,16000.0,320,Uong 1 vien/ngay
+TH023,Codeine,Giam ho,38000.0,140,Uong 3 lan/ngay
+TH024,Diazepam,An than,48000.0,60,Uong buoi toi
+TH025,Fluoxetine,Tram cam,95000.0,70,Theo don bac si
+TH026,Lisinopril,Huyet ap,72000.0,130,Uong buoi sang
+TH027,Diclofenac,Khang viem,21000.0,280,Dung ngoai da
+TH028,Calcitriol,Canxi,32000.0,400,Uong sau an trua
+TH029,Warfarin,Chong dong,58000.0,95,Uong theo chi dinh
+TH030,Meloxicam,Giam dau,42000.0,160,Uong ngay 1 lan
+TH031,Penicillin V,Khang sinh,52000.0,210,Uong 6 tieng/lan
+TH032,Furosemide,Loi tieu,31000.0,240,Uong buoi sang
+TH033,Sildenafil,Roi loan cuong,120000.0,30,Uong truoc khi quan he
+TH034,Montelukast,Hen suyen,88000.0,75,Uong truoc khi ngu
+TH035,Clindamycin,Khang khuan,50000.0,190,Uong sau an
+TH036,Naproxen,Giam dau,26000.0,310,Uong 2 lan/ngay
+TH037,Hydrochlorothiazide,Huyet ap,37000.0,220,Uong buoi sang
+TH038,Digoxin,Tim mach,92000.0,85,Theo chi dinh bac si
+TH039,Tamsulosin,Tien liet,68000.0,105,Uong 1 lan/ngay
+TH040,Cefalexin,Khang sinh,48000.0,260,Uong 4 lan/ngay
+TH041,Gabapentin,Than kinh,78000.0,115,Uong 3 lan/ngay
+TH042,Levothyroxine,Tuyen giap,54000.0,170,Uong buoi sang luc doi
+TH043,Tramadol,Giam dau manh,62000.0,145,Uong khi dau
+TH044,Ondansetron,Chong non,33000.0,230,Uong truoc khi an
+TH045,Mupirocin,Khang sinh ngoai,29000.0,350,Boi 3 lan/ngay
+TH046,Allopurinol,Gout,41000.0,185,Uong sau an
+TH047,Doxycycline,Khang sinh,39000.0,270,Uong 2 lan/ngay
+TH048,Celecoxib,Khang viem,73000.0,98,Uong 1 vien/ngay
+TH049,Spironolactone,Loi tieu,49000.0,155,Uong buoi sang
+TH050,Fluconazole,Chong nam,57000.0,125,Uong 1 lan/tuan
